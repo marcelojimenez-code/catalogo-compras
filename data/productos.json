@@ -1,0 +1,100 @@
+[
+    {
+        "img": "camisa.png",
+        "titulo": "Camisa Escocesa",
+        "sexo": "Hombre",
+        "precio": 90,
+        "descuento": 35,
+        "id"   : 1 
+    },
+    {
+        "img": "polera_polo.png",
+        "titulo": "Polera Polo",
+        "sexo": "Hombre",
+        "precio": 35,
+        "descuento": 22,
+        "id"   : 2 
+    },
+    {
+        "img": "polera_urbana.png",
+        "titulo": "Polera Urbana",
+        "sexo": "Hombre",
+        "precio": 66,
+        "descuento": 44,
+        "id"   : 3 
+    },
+    {
+        "img": "chaleco.png",
+        "titulo": "Chaleco Blanco",
+        "sexo": "Mujer",
+        "precio": 70,
+        "descuento": 50,
+        "id"   : 4 
+    },
+
+    {
+        "img": "chaqueta_blazer.png",
+        "titulo": "Blazer",
+        "sexo": "Mujer",
+        "precio": 42,
+        "descuento": 15,
+        "id"   : 5 
+    },
+    {
+        "img": "poncho.png",
+        "titulo": "Poncho",
+        "sexo": "Mujer",
+        "precio": 20,
+        "descuento": 15,
+        "id"   : 6 
+    },
+    {
+        "img": "chaqueta.png",
+        "titulo": "Chaqueta Cuero",
+        "sexo": "Hombre / Mujer",
+        "precio": 80,
+        "descuento": 35,
+        "id"   : 7 
+    },
+    {
+        "img": "pantalon_terno.png",
+        "titulo": "Pantalon Terno",
+        "sexo": "Hombre",
+        "precio": 44,
+        "descuento": 22,
+        "id"   : 8 
+    },
+
+    {
+        "img": "pantalon.png",
+        "titulo": "Pantalon Jeans Negro",
+        "sexo": "Hombre",
+        "precio": 100,
+        "descuento": 44,
+        "id"   : 9 
+    },
+    {
+        "img": "falda.png",
+        "titulo": "Falda",
+        "sexo": "Mujer",
+        "precio": 200,
+        "descuento": 50,
+        "id"   : 10 
+    },
+    {
+        "img": "vestido.png",
+        "titulo": "Vestido",
+        "sexo": "Mujer",
+        "precio": 55,
+        "descuento": 15,
+        "id"   : 11 
+    },
+    {
+        "img": "vestido_largo.png",
+        "titulo": "Vestido Largo",
+        "sexo": "Mujer",
+        "precio": 40,
+        "descuento": 15,
+        "id"   : 12 
+    }
+]
