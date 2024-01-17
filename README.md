@@ -3,7 +3,7 @@
 Catalogo de compras 
 
 ## <link>Link Github Pages</link>
-[Include relevant badges here](https://marcelojimenez-code.github.io/catalogo-compras/)
+[Link Github Pages](https://marcelojimenez-code.github.io/catalogo-compras/)
 
 ## <link>Table of Contents</link>
 - [<link>Installation</link>](#installation)
