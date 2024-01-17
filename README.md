@@ -2,8 +2,8 @@
 
 Catalogo de compras 
 
-## <link>Badges</link>
-Include relevant badges here
+## <link>Link Github Pages</link>
+[Include relevant badges here](https://marcelojimenez-code.github.io/catalogo-compras/)
 
 ## <link>Table of Contents</link>
 - [<link>Installation</link>](#installation)
@@ -25,4 +25,4 @@ Profesor Adrian Gonzalez ayudo con sus còdigos que nos entrego en sus clases de
 licencia gratis
 
 ## <link>Detalle</link>
-If your project uses third-party code or libraries, acknowledge them here
+Catalogo de productos cargados por Json para agregar los productos al carro de compras con Localstorage y validado por Sweetalert2
